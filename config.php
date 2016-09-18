@@ -2,7 +2,7 @@
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
-$dbname = 'autoparts_bank';
+$dbname = '';
 ?>
 
  
